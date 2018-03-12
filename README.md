@@ -1,3 +1,4 @@
 # QuadWireFrameShader
 
-![]https://github.com/haxflying/QuadWireFrameShader.git/QuadWireFrameShader/wireFrame_quad.jpg
+![image](https://github.com/haxflying/QuadWireFrameShader/wireFrame_quad.jpg)
+
